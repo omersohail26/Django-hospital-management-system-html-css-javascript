@@ -1,2 +1,0 @@
-# Django-hospital-management-system-html-css-javascript
-A Hospital Management System developed using Django, designed to streamline hospital operations. This web application allows administrators and doctors to manage patients, appointments, and hospital data through an intuitive interface. Key Technologies: Python | Django | HTML | CSS | Bootstrap |Javascript| Django Templates | SQLite | Git &amp; GitHub
